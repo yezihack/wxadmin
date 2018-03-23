@@ -30,15 +30,7 @@ class CreateQrCodesTable extends Migration
 
     public function data()
     {
-//        insert into `plugin_weixin_dev_qrcode` (`qrcode_id`, `scene_str`, `desc`, `url`, `createdate`) values('1','1','New openning Hoardings','http://weixin.qq.com/q/02N1pyl6sXfk310000w07Q','1492507087');
-//insert into `plugin_weixin_dev_qrcode` (`qrcode_id`, `scene_str`, `desc`, `url`, `createdate`) values('2','2','HR activities','http://weixin.qq.com/q/02NiQ2k5sXfk310000007-','1492507341');
-//insert into `plugin_weixin_dev_qrcode` (`qrcode_id`, `scene_str`, `desc`, `url`, `createdate`) values('3','3','Poster FOR employees','http://weixin.qq.com/q/02z_-jl6sXfk310000M074','1492507271');
-//insert into `plugin_weixin_dev_qrcode` (`qrcode_id`, `scene_str`, `desc`, `url`, `createdate`) values('4','4','Recruitment materials','http://weixin.qq.com/q/024h1olDsXfk310000g07U','1492507515');
-//insert into `plugin_weixin_dev_qrcode` (`qrcode_id`, `scene_str`, `desc`, `url`, `createdate`) values('5','5','IC channels','http://weixin.qq.com/q/02odz3kysXfk310000w07W','1492507524');
-//insert into `plugin_weixin_dev_qrcode` (`qrcode_id`, `scene_str`, `desc`, `url`, `createdate`) values('6','6','All Brands channels','http://weixin.qq.com/q/02xK0Ok5sXfk310000007s','1492507305');
-//insert into `plugin_weixin_dev_qrcode` (`qrcode_id`, `scene_str`, `desc`, `url`, `createdate`) values('7','7','Job boards','http://weixin.qq.com/q/02Dr3nk4sXfk310000M079','1492507540');
-//insert into `plugin_weixin_dev_qrcode` (`qrcode_id`, `scene_str`, `desc`, `url`, `createdate`) values('8','8','collaborated promotion','http://weixin.qq.com/q/02hs8mlBsXfk310000M07R','1492757860');
-//insert into `plugin_weixin_dev_qrcode` (`qrcode_id`, `scene_str`, `desc`, `url`, `createdate`) values('9','9','BJ TC openday','http://weixin.qq.com/q/02IMTtlssXfk310000w07p','1509503299');
+
     }
 
 
