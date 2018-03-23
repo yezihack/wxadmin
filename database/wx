@@ -1,0 +1,5 @@
+//微信公众号配置
+    'wx_scope'              =>'base',//'base',//微信授权方式'snsapi_base' 'snsapi_userinfo'
+    'wx_appid'              =>'wxd321ebed686955c8',//'wx1ee3460a36ab4f42',//测试公众账号appid
+    'wx_secret'             =>'185c3f5579e993c7a260481c30366d77',//'b16f81009ab7f50e28666440e96d1fe6',//测试号秘钥
+    'check_token'           => "inditexcareers",
